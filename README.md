@@ -28,3 +28,6 @@
 7. Aktifkan env $ source venv/bin/activate
 8. Install requirements $ pip install -r requirements.txt
 9. Run project $ python test.py google damargoogle katasandi https://kumparan.com Chrome > report.html
+
+### GIF
+![alt text](screencapture.gif)
